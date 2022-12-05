@@ -60,6 +60,9 @@ img {
 }
 /*--global css done--*/
 
+/*--hero section start--*/
 .hero {
-    background: url("./assets/img/hero")
+    background: url("./assets/img/hero-bg.jpg");
+    
+
 }
