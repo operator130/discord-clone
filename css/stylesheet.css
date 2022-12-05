@@ -59,3 +59,7 @@ img {
     display: block;
 }
 /*--global css done--*/
+
+.hero {
+    background: url("./assets/img/hero")
+}
